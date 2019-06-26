@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "914600480593",
+    "firebase_url": "https://pasarlaut-bc0b8.firebaseio.com",
+    "project_id": "pasarlaut-bc0b8",
+    "storage_bucket": "pasarlaut-bc0b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914600480593:android:6609edd9aa76ec70",
+        "android_client_info": {
+          "package_name": "com.project.pasarlaut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914600480593-59srkjfb6fnvov2h8snbkclpes8cqge4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.pasarlaut",
+            "certificate_hash": "d36e1d407c8fd8391a1f105914bb468648fdeab1"
+          }
+        },
+        {
+          "client_id": "914600480593-15sm57fsimaiujbsfrk2ob0q1a7m40l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD8BaOd_OTqaidEoSjLFWnbQpSzH8U2I0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914600480593-it46uorget8sp491m5koa67307ke9jn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
