@@ -25,7 +25,7 @@ FIREBASE
 - Masukan app nick name : contoh (latihan3) terserah anda.
 - Masukan Debug signing certificate SHA-1 : (Cara Mendapat SHA1-1 : Masuk ke CMD (Windows) ketikan perintah :
 
-keytool -list -v -keystore "C:\Users\yourname\.android\debug.keystore" -alias androiddebugkey -storepass android -keypass android
+keytool -list -v -keystore "C:\Users\yourname\ .android\debug.keystore" -alias androiddebugkey -storepass android -keypass android
 
 Catatan : Ganti Tulisan yourname diatas dengan Path Android anda di PC/Laptop
 
